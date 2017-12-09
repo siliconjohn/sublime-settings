@@ -1,0 +1,16 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Browser Refresh",
+		"Compare Side-By-Side",
+		"Git",
+		"GitGutter",
+		"One Dark Color Scheme",
+		"Toggle the View Read-Only"
+	]
+}

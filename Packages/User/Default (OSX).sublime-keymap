@@ -1,0 +1,5 @@
+[
+	// git plugin
+	{ "keys": ["super+shift+c"], "command": "git_quick_commit" },
+	{ "keys": ["super+shift+l"], "command": "git_log" },
+]
