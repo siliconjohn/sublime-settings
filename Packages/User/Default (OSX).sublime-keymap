@@ -18,4 +18,7 @@
 	{ "keys": ["super+up"], "command": "swap_line_up" },
 	{ "keys": ["super+down"], "command": "swap_line_down" },
 
+	// advanced new file plugin
+	{ "keys": ["super+alt+n"], "command": "advanced_new_file_new"}
+
 ]

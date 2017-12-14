@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"BracketHighlighter",
 		"Browser Refresh",
 		"Compare Side-By-Side",
@@ -12,6 +13,7 @@
 		"GitGutter",
 		"One Dark Color Scheme",
 		"Package Control",
+		"ShellCommand",
 		"Toggle the View Read-Only"
 	]
 }
