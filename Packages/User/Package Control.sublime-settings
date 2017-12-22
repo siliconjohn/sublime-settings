@@ -8,12 +8,15 @@
 		"AdvancedNewFile",
 		"BracketHighlighter",
 		"Browser Refresh",
+		"ColorPicker",
 		"Compare Side-By-Side",
+		"Delete Lines",
 		"Git",
 		"GitGutter",
 		"One Dark Color Scheme",
 		"Package Control",
 		"ShellCommand",
+		"SideBarEnhancements",
 		"Toggle the View Read-Only"
 	]
 }

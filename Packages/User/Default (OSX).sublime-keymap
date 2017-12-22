@@ -3,6 +3,9 @@
 	{ "keys": ["super+shift+c"], "command": "git_quick_commit" },
 	{ "keys": ["super+shift+l"], "command": "git_log" },
 
+	// delete line plugin
+	{ "keys": ["super+k"], "command": "0xfff" },
+
 	// multi select
 	{ "keys": ["super+n"], "command": "find_under" },
 	{ "keys": ["super+g"], "command": "find_under_prev" },
@@ -22,6 +25,6 @@
 	{ "keys": ["alt+shift+d"], "command": "duplicate_line" },
 
 	// advanced new file plugin
-	{ "keys": ["super+alt+n"], "command": "advanced_new_file_new"}
+	{ "keys": ["super+alt+n"], "command": "advanced_new_file_new"},
 
 ]
